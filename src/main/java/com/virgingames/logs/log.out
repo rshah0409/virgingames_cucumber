@@ -1,0 +1,14 @@
+2021-07-28 22:07:738 INFO  BasePage :34 - Launching Chrome Browser 
+2021-07-28 22:07:859 INFO  BasePage :34 - Launching Chrome Browser 
+2021-07-28 22:07:755 INFO  BasePage :34 - Launching Chrome Browser 
+2021-07-28 22:07:162 INFO  BasePage :34 - Launching Chrome Browser 
+2021-07-28 22:07:607 INFO  BasePage :34 - Launching Chrome Browser 
+2021-07-28 22:07:579 INFO  BasePage :34 - Launching Chrome Browser 
+2021-07-28 22:07:562 INFO  BasePage :38 - Launching FireFox Browser 
+2021-07-28 22:07:00 INFO  BasePage :38 - Launching FireFox Browser 
+2021-07-28 22:07:876 INFO  HomePage :18 - Clicking on login link : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='sc-htmcrh ditdwV']/following-sibling::span/child::a[1]'
+2021-07-28 22:07:588 INFO  BasePage :38 - Launching FireFox Browser 
+2021-07-28 22:07:519 INFO  HomePage :18 - Clicking on login link : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='sc-htmcrh ditdwV']/following-sibling::span/child::a[1]'
+2021-07-29 09:07:690 INFO  BasePage :36 - Launching FireFox Browser 
+2021-07-29 20:07:585 INFO  BasePage :36 - Launching FireFox Browser 
+2021-07-29 20:07:834 INFO  HomePage :18 - Clicking on login link : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='sc-htmcrh ditdwV']/following-sibling::span/child::a[1]'
